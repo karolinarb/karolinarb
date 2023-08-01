@@ -2,7 +2,7 @@
 ### Cloud Systems Developer
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=karolinarb.karolinarb)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolinarb)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolinaryba)
 
 - 🎓 The University of Sheffield - BEng Bioengineering alum
 - 🥅 2023 Goals:
