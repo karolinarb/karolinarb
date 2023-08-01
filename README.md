@@ -6,7 +6,7 @@
 [![Exercism](https://img.shields.io/badge/-Exercism-purple?style=flat&logo=exercism&logoColor=white)](https://exercism.org/profiles/karolinarb)
 [![CodeWars](https://img.shields.io/badge/-codewars-red?style=flat&logo=codewars&logoColor=white)](https://codewars.com/users/karolinarb)
 [![Kaggle](https://img.shields.io/badge/-kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/karolinarb)
-- 🎓 The University of Sheffield - BEng Bioengineering alum
+- 🎓 The University of Sheffield - BEng Bioengineering 
 - 🥅 2023 Goals:
     - GCP Associate Cloud Engineer certification
     - Master Python
