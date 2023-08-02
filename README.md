@@ -66,14 +66,14 @@
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Study Guides</h1>
   
 </a>  
-<a href="[https://github.com/karolinarb/GCP-Exam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolinarb&repo=GCP-Exam" />   
+<a href="[https://github.com/karolinarb/GCP-Associate-Cloud-Engineer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolinarb&repo=GCP-Associate-Cloud-Engineer" />   
 </a>  
 <a href="https://github.com/karolinarb/Machine_Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolinarb&repo=Machine_Learning" />  
 </a>  
-<a href="https://github.com/karolinarb/python-study-guide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolinarb&repo=python-study-guide" />  
+<a href="https://github.com/karolinarb/Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolinarb&repo=Python" />  
  </a>  
 
 
