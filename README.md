@@ -61,9 +61,16 @@
 <br/>
 
 ---
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> AWS Projects</h1>
+  
+</a>  
+<a href="[https://github.com/karolinarb/aws-static-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolinarb&repo=aws-static-website" />   
+</a>  
 
+---
 
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Study Guides</h1>
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Study Guides</h1>
   
 </a>  
 <a href="[https://github.com/karolinarb/GCP-Associate-Cloud-Engineer">
