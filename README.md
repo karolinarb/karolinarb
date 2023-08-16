@@ -67,6 +67,10 @@
 <a href="[https://github.com/karolinarb/aws-static-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolinarb&repo=aws-static-website" />   
 </a>  
+<a href="[https://github.com/karolinarb/aws-ecs-fargate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karolinarb&repo=aws-ecs-fargate" />   
+</a>  
+
 
 ---
 
