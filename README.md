@@ -70,7 +70,10 @@
 </a>  
 <a href="https://github.com/karolinarb/aws-ecs-fargate">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=karolinarb&repo=aws-ecs-fargate" /> 
- 
+
+</a>  
+<a href="https://github.com/karolinarb/ML-model-sagemaker-lambda">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=karolinarb&repo=ML-model-sagemaker-lambda" /> 
   
 ---
 
