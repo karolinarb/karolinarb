@@ -1,5 +1,5 @@
 # Karolina Ryba
-### Platform Engineer
+### Data Platform Engineer
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=karolinarb.karolinarb)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karolinaryba)
